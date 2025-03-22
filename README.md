@@ -36,13 +36,14 @@ ping command is available on Windows as well as on Linux OS. Following is the ex
 #### ip2location.com :
 Finding Hosting Company
 get further detail by using ip2location.com website.
-![ip2](https://github.com/Manoj162004/InformationGathering/assets/120365042/619062b3-411f-4a14-b949-d60ad9b95b41)
+![Screenshot 2025-03-22 132648](https://github.com/user-attachments/assets/7b0c37d6-2dbe-4c66-9122-0f2bbb40884e)
 
 
 #### History of the website:
 https://web.archive.org/
+![Screenshot 2025-03-22 132743](https://github.com/user-attachments/assets/5f7e865c-57b8-4c44-be7e-0b446bd85a42)
 
-![![webarchive](https://github.com/Manoj162004/InformationGathering/assets/120365042/30205ff8-2bae-4392-99c0-b430e96122c2)
+
 
 3](/im/webarcive.png)
 
